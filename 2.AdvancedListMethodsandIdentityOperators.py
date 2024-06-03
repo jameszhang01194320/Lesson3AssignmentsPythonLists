@@ -1,8 +1,4 @@
 # 2. Advanced List Methods and Identity Operators
-# Objective:
-# The aim of this assignment is to delve deeper into list methods and understand the nuances of identity operators.
-# Problem Statement:
-# You have two lists of student names. One list contains the names of students who have submitted their assignments, and the other list contains the names of students who attended the last class.
 
 # Task 1: Given the two lists:
 # submitted = ["Alice", "Bob", "Charlie", "David"]
