@@ -27,7 +27,7 @@ for student, grade, activity in students_have_grades_below_80:
 # Task 2: For the remaining students, add students name in a new list named students_approved. Expected Outcome: students_approved = ["John", "Doe", "Smith"]
 students_approved = []
 
-# Loop through student data (assuming data lengths are aligned)
+# Loop through student data 
 for i in range(len(students)):
     student = students[i]
     grade = grades[i]
